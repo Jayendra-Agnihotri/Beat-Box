@@ -1,2 +1,2 @@
 # Beat-Box
-My music web-app project
+During my coding education, I created a music web application using HTML, CSS, and JavaScript. This project aimed to demonstrate my front-end web development capabilities. The application is both responsive and user-friendly, enabling users to play music seamlessly. I utilized HTML and CSS for the design and styling of the interface, while JavaScript handled user input and interactions, such as play, pause, and next track controls. Moreover, I gained valuable experience with version control tools like Git and GitHub.
